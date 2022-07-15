@@ -21,7 +21,7 @@ I would encourage to read following papers within the given sequence before movi
 4. [MOMENTA](https://aclanthology.org/2021.findings-emnlp.379.pdf)
 
 # Code 
-We have borrowed our code from following sources
+We have borrowed our code from following sources, you can also go visit these
 1. [centralnet code](https://github.com/jperezrua/mfas)
 2. [MOMENTA](https://github.com/lcs2-iiitd/momenta)
 

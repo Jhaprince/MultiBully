@@ -20,9 +20,12 @@ We have borrowed our code from following sources
 
 # Citation
 If you find this repository to be helpful please cite us
+
+```
 @article{maity2022multitask,
   title={A Multitask Framework for Sentiment, Emotion and Sarcasm aware Cyberbullying Detection from Multi-modal Code-Mixed Memes},
   author={Maity, Krishanu and Jha, Prince and Saha, Sriparna and Bhattacharyya, Pushpak},
   year={2022}
 }
+```
 

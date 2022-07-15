@@ -12,6 +12,7 @@ Note : * denotes equal contribution
 2. [Meme Image](https://drive.google.com/drive/folders/1_01joFDElDHGc47iU4QShoG1EDhvf6zM?usp=sharing)
 
 # Annotation Guidelines
+To be done
 
 # References
 I would encourage to read following papers within the given sequence before moving to the code part

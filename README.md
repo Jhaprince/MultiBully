@@ -8,6 +8,8 @@ Krishanu Maity*, Prince Jha*, Sriparna Saha, Pushpak Bhattacharyya
 Note : * denotes equal contribution
 
 # Dataset
+[Text Annotated with Bully, Sentiment, Emotion, Sarcasm, Target, and Harfulness Score](https://docs.google.com/spreadsheets/d/11JSgF-ZoHOQXiT8aj4RnFNz97UiAM5Ql_0MEq_RNjik/edit?usp=sharing)
+[Meme Image](https://drive.google.com/drive/folders/1_01joFDElDHGc47iU4QShoG1EDhvf6zM?usp=sharing)
 
 # Annotation Guidelines
 

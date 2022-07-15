@@ -7,6 +7,10 @@ Krishanu Maity*, Prince Jha*, Sriparna Saha, Pushpak Bhattacharyya
 
 Note : * denotes equal contribution
 
+# Dataset
+
+# Annotation Guidelines
+
 # References
 I would encourage to read following papers within the given sequence before moving to the code part
 1. [CLIP](https://arxiv.org/pdf/2103.00020.pdf)

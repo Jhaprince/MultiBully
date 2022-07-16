@@ -237,7 +237,7 @@ dataloader_val = DataLoader(bm_dataset_val, batch_size=32,shuffle=False, num_wor
 print("validation_data loaded")
 
 
-bm_dataset_test = HarmemeMemesDatasetAug2(test_id,data,proposal,xlm_roberta,text_clip_feat,image_clip_feat,split_flag='test')
+bm_dataset_test = MemesDataset(test_id,data,proposal,xlm_roberta,text_clip_feat,image_clip_feat,split_flag='test')
 dataloader_test = DataLoader(bm_dataset_test, batch_size=32,shuffle=False, num_workers=0)
 print("test data loaded")
 

@@ -20,7 +20,7 @@ Note : * denotes equal contribution
     (iii) Emotion
     (iv) Sarcasm
  4. Then you can load the pretrained weight from bully, sentiment, emotion and sarcasm and freeze the network parameters for these layers. and only learn the weights for Central Network to predict the output.
- 5. [here you can decide which model should be used for training](https://github.com/Jhaprince/MultiBully/blob/9a35c4cc7bfdcbea00a9661fbd77bff69fdc1e12/train.py#L258)
+ 5. [here](https://github.com/Jhaprince/MultiBully/blob/9a35c4cc7bfdcbea00a9661fbd77bff69fdc1e12/train.py#L258) you can decide which model should be used for training
  6. Here([Emotion](https://github.com/Jhaprince/MultiBully/blob/9a35c4cc7bfdcbea00a9661fbd77bff69fdc1e12/centralnet.py#L240),[Sarcasm](https://github.com/Jhaprince/MultiBully/blob/9a35c4cc7bfdcbea00a9661fbd77bff69fdc1e12/centralnet.py#L247),[Sentiment](https://github.com/Jhaprince/MultiBully/blob/9a35c4cc7bfdcbea00a9661fbd77bff69fdc1e12/centralnet.py#L253),[Bully](https://github.com/Jhaprince/MultiBully/blob/9a35c4cc7bfdcbea00a9661fbd77bff69fdc1e12/centralnet.py#L258)) you can freeze the network parameters or you can comment if you want to finetune it again for
 
 # Annotation Guidelines

@@ -12,7 +12,6 @@ Note : * denotes equal contribution
 2. [Meme Image](https://drive.google.com/drive/folders/1_01joFDElDHGc47iU4QShoG1EDhvf6zM?usp=sharing)
 
 # Model Training
-There are two ways for training the model
 1. Train the model using auxiliary tasks (Emotion, Sentiment, Sarcasm) and main task together with centralnet and simultaneosuly optimize loss function for all tasks
 2. Although by training model on all tasks simultaneously makes the model overfit on training data because of complexity.
 3. To overcome that we first train the model individually on all tasks using basic architecture given :

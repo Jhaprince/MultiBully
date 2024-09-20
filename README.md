@@ -9,7 +9,7 @@ Note : * denotes equal contribution
 
 # Dataset
 1. [Text Annotated with Bully, Sentiment, Emotion, Sarcasm, Target, and Harfulness Score](https://docs.google.com/spreadsheets/d/11JSgF-ZoHOQXiT8aj4RnFNz97UiAM5Ql_0MEq_RNjik/edit?usp=sharing)
-2. [Meme Image](https://drive.google.com/drive/folders/1_01joFDElDHGc47iU4QShoG1EDhvf6zM?usp=sharing)
+2. [Meme Image](https://drive.google.com/drive/folders/1GEj1vjcZpSFcHiHkzxxSwQpeOBp_TXY5?usp=sharing)
 
 # Model Training
 1. Train the model using auxiliary tasks (Emotion, Sentiment, Sarcasm) and main task together with centralnet and simultaneosuly optimize loss function for all tasks
